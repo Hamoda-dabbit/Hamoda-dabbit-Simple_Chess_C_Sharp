@@ -1,0 +1,16 @@
+C:\Users\Hamoda\Desktop\chess\chess1\bin\Release\chess1.exe.config
+C:\Users\Hamoda\Desktop\chess\chess1\bin\Release\chess1.exe
+C:\Users\Hamoda\Desktop\chess\chess1\bin\Release\chess1.pdb
+C:\Users\Hamoda\Desktop\chess\chess1\obj\Release\chess1.Form1.resources
+C:\Users\Hamoda\Desktop\chess\chess1\obj\Release\chess1.Properties.Resources.resources
+C:\Users\Hamoda\Desktop\chess\chess1\obj\Release\chess1.csproj.GenerateResource.Cache
+C:\Users\Hamoda\Desktop\chess\chess1\obj\Release\chess1.exe
+C:\Users\Hamoda\Desktop\chess\chess1\obj\Release\chess1.pdb
+C:\Users\Hamoda\Documents\وظايف\خوارزميات3 الشطرنج\chess1\bin\Release\chess1.exe.config
+C:\Users\Hamoda\Documents\وظايف\خوارزميات3 الشطرنج\chess1\obj\Release\chess1.exe
+C:\Users\Hamoda\Documents\وظايف\خوارزميات3 الشطرنج\chess1\obj\Release\chess1.pdb
+C:\Users\Hamoda\Documents\وظايف\خوارزميات3 الشطرنج\chess1\bin\Release\chess1.exe
+C:\Users\Hamoda\Documents\وظايف\خوارزميات3 الشطرنج\chess1\bin\Release\chess1.pdb
+C:\Users\Hamoda\Documents\وظايف\خوارزميات3 الشطرنج\chess1\obj\Release\chess1.Form1.resources
+C:\Users\Hamoda\Documents\وظايف\خوارزميات3 الشطرنج\chess1\obj\Release\chess1.Properties.Resources.resources
+C:\Users\Hamoda\Documents\وظايف\خوارزميات3 الشطرنج\chess1\obj\Release\chess1.csproj.GenerateResource.Cache
